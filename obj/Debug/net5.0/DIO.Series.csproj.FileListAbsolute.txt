@@ -1,0 +1,16 @@
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\users\ivory\Documents\projetosEtudos\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
